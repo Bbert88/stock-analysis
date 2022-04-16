@@ -5,11 +5,9 @@
 
 ## Results and Analysis
 
+![VBA_Challenge_2017](./Resources/VBA_Challenge_2017.png)
 
-![VBA_Challenge_2017](./resources/VBA_Challenge_2017.png)
-
-
-![VBA_Challenge_2018](./resources/VBA_Challenge_2018.png)
+![VBA_Challenge_2018](./Resources/VBA_Challenge_2018.png)
 
 
 ### Advantages of Refactoring Code
