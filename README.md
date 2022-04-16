@@ -6,10 +6,10 @@
 ##Results and Analysis
 
 
-![2017 Analysis Refactored Runtime](./resources/VBA_Challenge_2017.png)
+![VBA_Challenge_2017](./resources/VBA_Challenge_2017.png)
 
 
-![2018 Analysis Refactored Runtime](./resources/VBA_Challenge_2018.png)
+![VBA_Challenge_2018](./resources/VBA_Challenge_2018.png)
 
 
 ###Advantages of Refactoring Code
