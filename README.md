@@ -23,6 +23,6 @@ When comparing the refactored code of this VBA script it is clear that the origi
 
 ### Disadvantage of Refactoring Code
 
-Refactoring existing code does come at a cost. One disadvange is that refactoring will require additional time to complete the project. With this additional time, the user may get the same result. One could argue that tenths of a second of runtime may not be worth the additional work time required. However, the more efficient the code, the better and quicker it will run as the data sets grow. Another disadvantage is the possibility of the code not producing the same result. 
+Refactoring existing code does come at a cost. One disadvange is that refactoring will require additional time to complete the project. One could argue that tenths of a second of runtime may not be worth the additional work time required. The refactoring process can be very time consuming, especially when it comes to large projects. There is the possibility of the code not producing the same result which will then require additional time and resources to get the desired outcome. From a business perspective, another disadvantage would be the money required to refactor code. Since the output/result will remain the same, some choose not to refactor. The only disadvantage to refactoring this VBA script for the stocks analysis was the additional time required to do so. 
 
  
